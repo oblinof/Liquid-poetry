@@ -1,0 +1,6 @@
+{
+  "name": "Poesía On-Chain: Generador de Arte Marino & Liquidez",
+  "description": "Sistema de arte generativo on-chain alimentado por poesías de 111 caracteres, el oleaje en vivo de Floripa, hash de transacción y liquidez simulada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
